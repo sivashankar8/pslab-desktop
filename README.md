@@ -15,7 +15,7 @@ This repository holds the PSLab Desktop application. It is using ElectronJS runn
 	<img src="./docs/images/project_banner.jpg" alt="PSLab Banner" width="300px"/>
 </a> 
 
-## Buy
+## Buy v
 
 * You can get a Pocket Science Lab device from the [FOSSASIA Shop](https://fossasia.com).
 * More resellers are listed on the [PSLab website](https://pslab.io/shop/).
